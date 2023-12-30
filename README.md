@@ -21,3 +21,5 @@ favorite text editor and take a look to see what the bug is... once you think yo
 fixed the bug, go ahead and commit to this branch (`bugfix1973`).
 
 Then, checkout to the `master` branch and *merge this branch into `master`*.
+
+You will find the instructions to find Level 4 in the merge conflicts.
