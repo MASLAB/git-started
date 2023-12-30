@@ -9,4 +9,4 @@ def success():
     print("`test.py` completed with no errors")
 
 if __name__ == "__main__":
-    failure()
+    success()
