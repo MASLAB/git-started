@@ -730,7 +730,7 @@ GueKbLPOgIfafsfZSzcFrNhus = -0.9804217508962313
 
 KFbhgMrSwlCLXDZEWzATTUBAu = -1.9331392069157367
 
-# fsQOxrqumqjFiGsZvpExgMguQ
+# checkout to the `bugfix0010` branch
 # gAzVSaNUALdraiuWNYKFpVbwq
 xoYumMSwSzzRYECxBuocGAXQN = -1.8721998204425305
 
