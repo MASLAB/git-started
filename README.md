@@ -15,3 +15,5 @@ $ cat README.md
 
 Wow!  You're almost there!
 
+As your final task, you will need to check the difference between this branch and
+the `john762` branch.
