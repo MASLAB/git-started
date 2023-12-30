@@ -730,7 +730,7 @@ GueKbLPOgIfafsfZSzcFrNhus = -0.9804217508962313
 
 KFbhgMrSwlCLXDZEWzATTUBAu = -1.9331392069157367
 
-# checkout to the `bugfix0010` branch
+# Go ahead, resolve merge conflicts, and
 # gAzVSaNUALdraiuWNYKFpVbwq
 xoYumMSwSzzRYECxBuocGAXQN = -1.8721998204425305
 
